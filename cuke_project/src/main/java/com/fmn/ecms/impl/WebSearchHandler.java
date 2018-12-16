@@ -16,7 +16,7 @@ public class WebSearchHandler {
 	WebSearchPage webSearchPage = new WebSearchPage();
 
 	/*
-	 *  Open the chrome browser using the chrome driver
+	 *  Open the chrome browser using  the chrome driver - Moses
 	 */
 	public void openBrowser()
 	{
