@@ -1,7 +1,7 @@
 package com.fmn.ecms.impl;
 
 
-import com.fmn.ecms.page.OpenNRIAccountFormPage;
+import   com.fmn.ecms.page.OpenNRIAccountFormPage;
 
 
 public class NRIAccountFormImpl {
