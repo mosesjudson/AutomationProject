@@ -71,7 +71,7 @@ public class NRIAccountFormStep {
 	
 	@Then("^Submitted the NRI form sucessfully$")
 	public void submitted_the_NRI_form_sucessfully() throws Throwable  {
-	    
+	    System.out.println("Submitted the NRI Form Sucessfully");
 	}
 
 }
